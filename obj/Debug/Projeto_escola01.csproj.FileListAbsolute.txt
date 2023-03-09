@@ -1,0 +1,8 @@
+C:\Users\vgppl\source\repos\POO\Projeto_escola01\Projeto_escola01\obj\Debug\Projeto_escola01.csproj.AssemblyReference.cache
+C:\Users\vgppl\source\repos\POO\Projeto_escola01\Projeto_escola01\obj\Debug\Projeto_escola01.csproj.SuggestedBindingRedirects.cache
+C:\Users\vgppl\source\repos\POO\Projeto_escola01\Projeto_escola01\obj\Debug\Projeto_escola01.csproj.CoreCompileInputs.cache
+C:\Users\vgppl\source\repos\POO\Projeto_escola01\Projeto_escola01\bin\Debug\Projeto_escola01.exe.config
+C:\Users\vgppl\source\repos\POO\Projeto_escola01\Projeto_escola01\bin\Debug\Projeto_escola01.exe
+C:\Users\vgppl\source\repos\POO\Projeto_escola01\Projeto_escola01\bin\Debug\Projeto_escola01.pdb
+C:\Users\vgppl\source\repos\POO\Projeto_escola01\Projeto_escola01\obj\Debug\Projeto_escola01.exe
+C:\Users\vgppl\source\repos\POO\Projeto_escola01\Projeto_escola01\obj\Debug\Projeto_escola01.pdb
